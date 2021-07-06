@@ -29,6 +29,7 @@ github_username:  fullerf
 
 # Build settings
 theme: jekyll-theme-minimal
+markdown: kramdown
 plugins:
   - jekyll-feed
 
