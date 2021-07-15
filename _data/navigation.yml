@@ -1,0 +1,13 @@
+main:
+
+    - title: "Projects"
+      url: /projects/index/
+
+    - title: "About"
+      url: /about/
+
+    - title: "Publications"
+      url: /publications/
+
+    - title: "CV"
+      url: /cv/
