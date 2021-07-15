@@ -1,7 +1,6 @@
 ---
-title: cv
+title: publications
 permalink: /publications/
 
 ---
 
-hi mom
