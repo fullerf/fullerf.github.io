@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Farts in Chaos"
+title                    : ""
 title_separator          : "-"
 github                   : [metadata]
 subtitle                 : # site tagline that appears below site title in masthead
@@ -89,10 +89,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Franklin Fuller"
+  avatar           : "/assets/images/headshot.jpg"
+  bio              : "I am an X-ray scientist using Machine Learning to study chemical reactions"
+  location         : "Bay Area, CA, USA"
   email            :
   links:
     - label: "Email"
