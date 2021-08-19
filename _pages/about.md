@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
+canonical_url: "https://fullerf.github.io/about"
+permalink: /about/
 ---
 
 I am currently working at SLAC National Accelerator Laboratory in Menlo Park, CA, as an Associate Scientist, since November 2017. I investigate chemical reactions using X-ray spectroscopy and design new experimental and analysis techniques to better utilize the unique properties of the X-ray Free Electron laser at SLAC.

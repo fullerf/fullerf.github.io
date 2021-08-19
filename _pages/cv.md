@@ -1,10 +1,11 @@
 ---
-title: cv
+
+layout: single
 permalink: /cv/
+canonical_url: "https://fullerf.github.io/cv"
 
 ---
 
-# <center>Franklin Fuller</center>
 <center>SLAC National Accelerator Laboratory</center>
 <center>Email: fdfuller@slac.stanford.edu</center>
 <center>Phone: (cell) 612-987-8472, (office) 650-926-3235</center>
