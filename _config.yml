@@ -95,7 +95,7 @@ author:
   location         : "Bay Area, CA, USA"
   email            :
   links:
-    - label: "Email"
+    - label: "Contact me via Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fdfuller@gmail.com"
     - label: "Website"
@@ -109,7 +109,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/fullerf"
+      url: "https://github.com/fullerf"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -125,7 +125,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/fullerf"
+      url: "https://github.com/fullerf"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
