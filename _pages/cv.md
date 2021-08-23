@@ -190,6 +190,8 @@ Diffusion of DNA-binding Protein in a Solution of DNA.
 ## Honors / Awards / Grants
 
 ---
+
+
 |Honor|Date|
 |---|---|
 |Panofsky Fellowship|November 2017 - Oct 2022|
