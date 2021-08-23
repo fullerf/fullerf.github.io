@@ -204,10 +204,12 @@ Diffusion of DNA-binding Protein in a Solution of DNA.
 ---
 
 ### Courses Taught:
-Physics 1301W (University of Minnesota, 2007-2008): 
-I taught a lab section of this course, graded tests, held office hours to answer student questions.
+
+Physics 1301W (University of Minnesota, 2007-2008): I taught a lab section of this course, graded tests, held office hours to answer student questions.
 
 ### Undergraduate students that I have mentored:
+
+
 |Student|Date|
 |---|---|
 |**Valentin Urena Baltazar**, UC Santa Cruz<br>Skill Taught: Raytracing, mathematica, and use of automatic differentiation for optimization problems.|Summer 2019|
@@ -217,12 +219,16 @@ I taught a lab section of this course, graded tests, held office hours to answer
 |**Alex Parker**, University of Michigan<br>Skills Taught: how to purify BBY particles, and helped him develop procedures for purifying similar complexes from cyanobacterium (Acaryochloris Marina).  Methods included centrifugation, liquid chromatography, and salt precipitation.|2011-2012|
 
 ### Postdoctoral Scholars Mentored
+
+
 |Scholar|Date|
 |---|---|
 |**Chantal Mustoe**, now at University of Strathclyde as a Crystallisation Fellow.|April 2020 - April 2021|
 |**Anton Loukianov**, now at Unlearn AI (a start up company in the bay area)|December 2017 - Aug 2019|
 
 ### Proposal Review Commitees
+
+
 |Panel|Date|
 |---|---|
 |SLAC Lab Directed Research and Development Machine Learning Review Panel for FY21|May 2020|
