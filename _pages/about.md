@@ -7,7 +7,7 @@ canonical_url: "https://fullerf.github.io/about"
 permalink: /about/
 ---
 
-I am currently working at Unlearn in San Francisco, CA, as a Machine Learning Engineer, since November 2022. I create generative multivariate time-series models for clinical trial outcomes, which are used to create "Digital Twins" of patients. You can read about details in this [tech report](https://arxiv.org/abs/2405.01488v1) we published.
+I am currently working at Unlearn in San Francisco, CA, as a Machine Learning Engineer, since May 2022. I create generative multivariate time-series models for clinical trial outcomes, which are used to create "Digital Twins" of patients. You can read about details in this [tech report](https://arxiv.org/abs/2405.01488v1) we published.
 
 ---
 
